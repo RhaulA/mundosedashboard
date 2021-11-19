@@ -1,8 +1,8 @@
 @extends('base')
 @section('title') Inicio @endsection
 @section('content')
-        <div class="pricing-header px-3 py-3 pt-md-5 pb-md-4 mx-auto text-center">
-            <h1 class="display-4">Dashboard</h1>
-        </div>
+<div class="d-flex justify-content-between flex-wrap flex-md-nowrap align-items-center pt-3 pb-2 mb-3 border-bottom">
+    <h1 class="h2">Dashboard</h1>
+  </div>
     </main>
 @endsection
